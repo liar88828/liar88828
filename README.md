@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+ 
 **liar88828/liar88828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# MY APP
+- Calculator DPS https://liar88828.github.io/weapon-dps-calculator/
 
 
 <h3 align="center">A passionate frontend developer from Indoneisa</h3>
